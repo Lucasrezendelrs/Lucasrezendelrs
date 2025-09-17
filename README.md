@@ -15,7 +15,7 @@ Sou um profissional especializado em Qualidade de Software, com experiência em 
 
 Estou construindo um portfólio completo para demonstrar minha jornada em QA, desde o planejamento até a automação avançada. Confira o projeto:
 
-➡️ **[Portfólio de QA - Hub de Leitura](https://github.com/Lucasrezendelrs/qa-portfolio-hub-leitura)**(Em breve)
+➡️ **[Portfólio de QA - Hub de Leitura](https://github.com/Lucasrezendelrs/qa-portfolio-hub-leitura)**(Em construção)
 
 --- 
 
